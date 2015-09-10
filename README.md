@@ -1,3 +1,5 @@
+**Abandoned. Don't use this and don't send pull requests.**
+
 # PSR-7 middleware for league/route
 
 [![Latest Version](https://img.shields.io/github/release/hannesvdvreken/route-middleware.svg?style=flat-square)](https://github.com/hannesvdvreken/route-middleware/releases)
