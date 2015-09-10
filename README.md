@@ -1,5 +1,11 @@
 # PSR-7 middleware for league/route
 
+[![Latest Version](https://img.shields.io/github/release/hannesvdvreken/route-middleware.svg?style=flat-square)](https://github.com/hannesvdvreken/route-middleware/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![Build Status](https://img.shields.io/travis/hannesvdvreken/route-middleware/master.svg?style=flat-square)](https://travis-ci.org/hannesvdvreken/route-middleware)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/hannesvdvreken/route-middleware.svg?style=flat-square)](https://scrutinizer-ci.com/g/hannesvdvreken/route-middleware/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/hannesvdvreken/route-middleware.svg?style=flat-square)](https://scrutinizer-ci.com/g/hannesvdvreken/route-middleware)
+
 [PSR-7 compatible](https://github.com/hannesvdvreken/psr7-middlewares) Middleware for league/route's RouteCollection.
 
 ## Installation
