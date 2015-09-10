@@ -20,7 +20,9 @@ This package aims to provide an easy to use middleware that takes PSR-7 Request 
 to a Response object by calling the Route's dispatcher class.
 
 ```php
-use League\Router\RouteCollection
+use League\Route\RouteCollection;
+use Psr\Http\Message\ResponseInterface;
+use Psr\Http\Message\RequestInterface;
 
 $router = new RouteCollection();
 
